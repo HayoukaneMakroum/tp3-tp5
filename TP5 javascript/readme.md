@@ -5,7 +5,7 @@ L’objectif de ce TP consiste à créer une application Web pour faire du dessi
 pour dessiner des rectangles, des lignes, ainsi que définir leur couleur et leur épaisseur de trait. 
 La figure ci-dessous montre l’état de l’application et donc l’objectif à atteindre.
 
-![alt text](https://imgur.com/a/rcvZZ)
+![alt text](https://imgur.com/a/fpih2)
 
 
 ###Installation:
